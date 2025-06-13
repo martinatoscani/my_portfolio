@@ -43,5 +43,5 @@ W. McKinney. Data Structures for Statistical Computing in Python. In Stéfan va
 -----------
 
 The source code in this project is released under the MIT License.  
-Please see the [LICENSE](../../LICENSE) file for full details.
+Please see the [LICENSE](../../LICENSE.md) file for full details.
 
